@@ -18,6 +18,8 @@
     "@docusaurus/preset-classic": "^2.2.0",
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
+    "@synaps-io/react-verify": "^1.0.3",
+    "@synaps-io/verify.js": "^3.1.1",
     "clsx": "^1.1.1",
     "file-loader": "^6.2.0",
     "mdx-mermaid": "^1.2.3",

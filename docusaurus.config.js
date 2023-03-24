@@ -162,7 +162,7 @@ module.exports = {
             'README.md'
           ],
         },
-        blog: false,
+        // blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
